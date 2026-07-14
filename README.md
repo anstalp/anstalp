@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Anastasios Alpanidis
 
-<!--
-**anstalp/anstalp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Applied Informatics student graduating in 2027, focused on Java backend development, REST APIs, PostgreSQL, Docker, and Spring Boot. I build practical backend projects and I am open to relocation for the right opportunity.
 
-Here are some ideas to get you started:
+## Focus Areas
+- Backend engineering with Java and Spring Boot
+- REST APIs, authentication, and database-driven systems
+- Scalable and reliable backend projects
+- Internship and early-career opportunities in Europe
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+Java • Spring Boot • PostgreSQL • Docker • REST APIs • JWT • OAuth2 • Redis • Git • Postman
+
+## Featured Projects
+- **MiniLink** — AI-powered URL shortener with human-readable aliases, built with Spring Boot and Gemini API.
+- **Event Booking System** — In progress, backend booking platform with authentication, persistence, caching, and payment-related workflows.
+
+## Contact
+- GitHub: github.com/anstalp
+- LinkedIn: linkedin.com/in/anastasios-alpanidis
+- Email: aalpanidis@gmail.com
