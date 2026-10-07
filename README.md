@@ -1,6 +1,6 @@
 # Hi, I'm Anastasios Alpanidis
 
-Applied Informatics student graduating in 2027, focused on Java backend development, REST APIs, PostgreSQL, Docker, and Spring Boot. I build practical backend projects and I am open to relocation for the right opportunity.
+Applied Informatics student, focused on Java backend development, REST APIs, PostgreSQL, Docker, and Spring Boot. I build practical backend projects and I am open to relocation for the right opportunity.
 
 ## Focus Areas
 - Backend engineering with Java and Spring Boot
