@@ -1,12 +1,11 @@
 # Hi, I'm Anastasios Alpanidis
 
-Applied Informatics student, focused on Java backend development, REST APIs, PostgreSQL, Docker, and Spring Boot. I build practical backend projects and I am open to relocation for the right opportunity.
+Applied Informatics student, focused on Java backend development, REST APIs, PostgreSQL, Docker, and Spring Boot.
 
 ## Focus Areas
 - Backend engineering with Java and Spring Boot
 - REST APIs, authentication, and database-driven systems
 - Scalable and reliable backend projects
-- Internship and early-career opportunities in Europe
 
 ## Tech Stack
 Java • Spring Boot • PostgreSQL • Docker • REST APIs • JWT • OAuth2 • Redis • Git • Postman
